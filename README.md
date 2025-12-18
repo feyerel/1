@@ -22,7 +22,7 @@
 
 <H3>H3</H3>
 
-<img src="https://github.com/user-attachments/assets/c83a1f3b-ebc9-44b1-8de6-af85e5113221" />
+<img src="https://img.freepik.com/free-photo/fun-3d-cartoon-illustration-pig-rocker_183364-118214.jpg?semt=ais_hybrid&w=740&q=80" >
 
 
 <a href "https://www.youtube.com/watch?v=6Dt7Z7TgdD4"> не надо жмать сюда </a>
