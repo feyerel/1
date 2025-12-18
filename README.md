@@ -22,7 +22,8 @@
 
 <H3>H3</H3>
 
-<img src = "https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fsotni.ru%2Fkrutye-kartinki%2F&ved=0CBUQjRxqFwoTCMiOl52pyJEDFQAAAAAdAAAAABAI&opi=89978449"
+<img src="https://github.com/user-attachments/assets/c83a1f3b-ebc9-44b1-8de6-af85e5113221" />
+
 
 <a href "https://www.youtube.com/watch?v=6Dt7Z7TgdD4"> не надо жмать сюда </a>
 
