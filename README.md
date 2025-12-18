@@ -30,7 +30,9 @@
  #include <iostream>
 
 using namespace std;
+
 int main() {
+    
 	int x0 = -1, x1 = 1, x2 = 3;
 	double y0, y1, y2;
 	cout << "enter y0, y1, y2:" << endl;
