@@ -27,8 +27,7 @@
 
 <a href "https://www.youtube.com/watch?v=6Dt7Z7TgdD4"> не надо жмать сюда </a>
 
-
-#include <iostream>
+ #include <iostream>
 
 using namespace std;
 int main() {
