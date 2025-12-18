@@ -12,3 +12,24 @@
 <H3>H3</H3>
 <img src = "https://img.freepik.com/free-photo/fun-3d-cartoon-illustration-pig-rocker_183364-118214.jpg?semt=ais_hybrid&w=740&q=80"
 <a href "https://www.youtube.com/watch?v=6Dt7Z7TgdD4"> не надо жмать сюда </a>
+
+#include <iostream>
+
+using namespace std;
+int main() {
+	int x0 = -1, x1 = 1, x2 = 3;
+	double y0, y1, y2;
+	cout << "enter y0, y1, y2:" << endl;
+	cin >> y0 >> y1 >> y2;
+	double f01 = (y1 - y0) / (x1 - x0);
+	double f12 = (y2 - y1) / (x2 - x1);
+	double f012 = (f12 - f01) / (x2 - x0);
+	double a = f012;
+	double b = f12 - f012 * x1 - f012 * x2;
+	double c = y2 - f12 * x2 + f012 * x1 * x2;
+	if (c<0) 
+		cout << "P2=" << a << "x^2+" << b << "x" << c << endl;
+	else
+		cout << "P2=" << a << "x^2+" << b << "x+" << c << endl;
+	return 0;
+}
